@@ -4,9 +4,9 @@ Sputnik 2	Sputnik2	ncbi	ncbi		JN603369.1		small	Virophage
 Sputnik 3	Sputnik3	ncbi	ncbi		JN603370.1		small	Virophage				
 Sputnik Rio Negro	Sputnik_Rio_Negro	ncbi	ncbi		KJ183141.1		small	Virophage		fragment		
 Zamilon	Zamilon	ncbi	ncbi		HG531932.1		small	Virophage				
-Mavirus_Spezl	Mavirus_Spezl	ncbi	ncbi		HQ712116.1		small	Mavirus				
-Mavirus_endo	Mavirus_endo	ncbi	ncbi		KU052222.1		small	Mavirus				
-Ace Lake Mavirus	ALM	ncbi	ncbi		KC556923.1		small	Mavirus				
+Mavirus_Spezl	Mavirus_Spezl	ncbi	ncbi		HQ712116.1		small	Virophage				
+Mavirus_endo	Mavirus_endo	ncbi	ncbi		KU052222.1		small	Virophage				
+Ace Lake Mavirus	ALM	ncbi	ncbi		KC556923.1		small	Virophage				
 Organic Lake virophage	OLV	ncbi	ncbi		HQ704801.1		small	Virophage				
 Yellowstone Lake virophage YSLV1	YSLV1	ncbi	ncbi		KC556924.1		small	Virophage				
 Yellowstone Lake virophage YSLV2	YSLV2	ncbi	ncbi		KC556925.1		small	Virophage				
